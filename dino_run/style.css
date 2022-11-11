@@ -6,7 +6,7 @@ body {
 .dino {
     width: 68px;
     height: 68px;
-    /* background-image: url(Dino_Horse.gif); */
+    background-image: url(dino.png);
     background-repeat: no-repeat;
     position: absolute;
     bottom: 0;
